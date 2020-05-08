@@ -2,7 +2,7 @@
 #import <CommonCrypto/CommonDigest.h>
 #import <UIKit/UIKit.h>
 #import <AdSupport/ASIdentifierManager.h>
-#import "OKSDK.h"
+#import "OKSDKIOS.h"
 #ifdef __IPHONE_9_0
 #import <SafariServices/SafariServices.h>
 #endif

@@ -6,3 +6,5 @@
 #
 # Pods/
 
+/Carthage/
+*.DS_Store
