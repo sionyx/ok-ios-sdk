@@ -1,6 +1,0 @@
-framework module oksdk {
-  umbrella header "oksdk.h"
-
-  export *
-  module * { export * }
-}
